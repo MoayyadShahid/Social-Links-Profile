@@ -6,18 +6,17 @@ A brief front-end focused project with links to various social platforms I'm on.
 
 - [Social Links Profile](#social-links-profile)
   - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The Objective](#the-objective)
     - [Screenshot](#screenshot)
+    - [The Objective](#the-objective)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+### Screenshot
 
-## Overview
+![](./screenshot.jpg)
 
 ### The Objective
 
@@ -26,10 +25,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page.
 - View the optimal layout for the site depending on their device's screen size.
 - Access social media links directly by clicking on the respective buttons.
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
