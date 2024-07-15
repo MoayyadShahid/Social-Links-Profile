@@ -1,0 +1,75 @@
+
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Trebuchet MS';
+    display: flex;
+    justify-content: center;  
+    align-items: center; 
+    margin: 5%; 
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+    margin-bottom: .5rem;
+    font-weight: 600;
+}
+
+h2 {
+    color: hsl(75, 94%, 57%);
+    font: Inter-SemiBold;
+    margin-top: .5rem;
+    font-size: 26px;
+}
+
+h3 {
+    color: white;
+    margin-top: 1.5rem;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.main-block {
+    background-color: hsl(0, 0%, 12%);
+    text-align: center;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 350px; /* Controls max width for responsiveness */
+    width: 90%; /* Helps with responsiveness on smaller devices */
+}
+
+.profile-image {
+    width: 30%; /* Controls image size, can adjust for responsiveness */
+    border-radius: 50%; /* Makes the image circular */
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.button {
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 80%; /* Adjusted width for better responsiveness*/
+    padding: 12px 0; /* Uniform padding for better button text alignment */
+    margin-top: 15px; /* Consistent spacing between buttons */
+    font-family: 'Trebuchet MS', sans-serif; 
+    font-size: 15px; /* Defined font-size instead of 'font' */
+    font-weight: bold; /* Ensures bold text */
+}
+
+.button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
